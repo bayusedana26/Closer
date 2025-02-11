@@ -50,9 +50,6 @@ struct Constants {
 - **Join Call**: Users can join a video call with a pre-defined `callId`.
 - **Incoming Calls**: The app listens for incoming calls and displays UI accordingly.
 
-## Screenshots
-*(Add screenshots here if available)*
-
 ## Contributing
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch`.
